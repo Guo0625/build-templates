@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigVigame>
+  <CompanyIndex>2</CompanyIndex>
+  <Company>深圳市飞鸟与鱼科技开发有限公司</Company>
+  <GameOpenActivity>com.vimedia.unitybridge.UniWbActivity</GameOpenActivity>
+  <ScreenOrientation>portrait</ScreenOrientation>
+  <Permissions>READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE</Permissions>
+  <IsSDK>true</IsSDK>
+  <HealthEnable>true</HealthEnable>
+  <HealthColor>FF00FF00</HealthColor>
+  <SupportAdPositions>splash,banner,pause,level_win,level_fail,gift_reward,gift_speed,home_mfzs,pause_mfzs,level_fail_mfzs</SupportAdPositions>
+  <CopyrightPerson>著作权人：深圳市动能无线传媒有限公司</CopyrightPerson>
+  <CopyrightNum>批准文号：新广出审[2016]3285号</CopyrightNum>
+  <PublicationNum>出版物号：ISBN　978-7-7979-1814-5</PublicationNum>
+  <PublicationPerson>出版服务单位：北京畅元国讯科技有限公司</PublicationPerson>
+  <RegisteredNum>游戏运营备案号：文网游备字〔2016〕Ｍ-CSG 7191 号</RegisteredNum>
+</ConfigVigame>
